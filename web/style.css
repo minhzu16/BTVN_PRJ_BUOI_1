@@ -1,0 +1,51 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/ClientSide/css.css to edit this template
+*/
+/* 
+    Created on : Dec 17, 2024, 10:40:15 PM
+    Author     : LEGION 5 PRO
+*/
+.register_box{
+    background-color: #23A7F1;
+    width: 19%;
+    padding: 1px 15px 24px;
+    margin-left: 42%;
+    margin-top: 14%;
+}
+
+.register_box_info{
+    width: 93%;     
+    color: white;
+    display: flex;
+    justify-content: right;
+    margin-top: 10px;
+}
+
+.register_box_info label{
+    margin-right: 5%;
+    margin-top: 2%
+        
+}
+
+.register_box_info input{
+    height: 20px;
+    width: 62%
+        
+}
+
+
+.register_box_button button{
+    background: orange;
+    height: 50px;
+    width: 85%;
+    font-size: 106%;
+    color: white;
+    border: 1px solid white;
+}
+
+.register_box_button{
+    display: flex;
+    justify-content: center;
+    margin-top: 10%
+}
